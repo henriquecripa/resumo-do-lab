@@ -153,7 +153,7 @@ Há dois tipos de capacidade de gerenciamento para computação em nuvem, que po
  ![image](https://github.com/user-attachments/assets/d64d3923-092c-45a6-8acf-b9079f1ae7cb)
 
                                                         Link Microsoft Azure
-                                https://learn.microsoft.com/pt-br/training/modules/describe-cloud-compute/1-introduction-microsoft-azure-fundamentals
+           https://learn.microsoft.com/pt-br/training/modules/describe-cloud-compute/1-introduction-microsoft-azure-fundamentals
 
 
 
