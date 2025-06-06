@@ -56,6 +56,8 @@ Permitem que as partes acompanhem o desempenho do fornecedor e identifiquem áre
 * **Redução de riscos:**
 Definem as responsabilidades de cada parte, o que ajuda a reduzir riscos de conflitos e disputas
 
+Tabela de metas comuns de design de disponibilidade de aplicativos que contém exemplos dos tipos de aplicativos que vemos comumente em cada nível de disponibilidade.
+![image](https://github.com/user-attachments/assets/d2b01226-13d0-436e-aeb2-4e5505a9f7d4)
 
 **ESCALABILIDADE →** A escalabilidade refere-se à capacidade de ajustar recursos para atender a demanda. A capacidade de escalar significa que você poderá adicionar mais recursos para lidar melhor com o aumento da demanda, podendo ajustar a capacidade do ambiente para atender uma determinada demanda.
 Outro benefício da escalabilidade é que a nuvem é baseada em consumo, ou seja, pagamos apenas oque for consumido, nada além do necessario pelos serviços. Se a demanda cair, podemos  reduzir os recursos e assim reduzir os custos.
@@ -72,5 +74,4 @@ Com a escala vertical por exemplo, em um desenvolvimento de um aplicativo precis
 - Uma instituição financeira pode aumentar a capacidade de computação durante os horários de pico, quando há maior volume de transações. 
 A elasticidade na nuvem é, portanto, um recurso valioso que contribui para a flexibilidade, eficiência e economia das empresas que adotam a computação em nuvem. 
 
- 
-![image](https://github.com/user-attachments/assets/d2b01226-13d0-436e-aeb2-4e5505a9f7d4)
+
