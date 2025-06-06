@@ -76,6 +76,10 @@ Com a escala vertical por exemplo, em um desenvolvimento de um aplicativo precis
 - Uma instituição financeira pode aumentar a capacidade de computação durante os horários de pico, quando há maior volume de transações. 
 A elasticidade na nuvem é, portanto, um recurso valioso que contribui para a flexibilidade, eficiência e economia das empresas que adotam a computação em nuvem.
 ![image](https://github.com/user-attachments/assets/762f706d-394e-41fb-8cf7-e02fbdc947e6)
+
+**PREVISIBILIDADE →** A previsibilidade na nuvem permite que avance com confiança, seja no desempenho ou no custo. Ambas são influenciadas pelo _Azure Well-Architected Framewor_ é um conjunto de princípios e ferramentas que ajudam os arquitetos a projetar e construir cargas de trabalho em nuvem de alta qualidade no **Microsoft Azure**. Ele se concentra em cinco pilares principais: Confiabilidade, Otimização de Custos, Excelência Operacional, Eficiência de Desempenho e Segurança. Esses pilares fornecem uma abordagem estruturada para garantir que os aplicativos sejam não apenas funcionais, mas também confiáveis, econômicos, fáceis de gerenciar, eficientes e seguros. 
+![image](https://github.com/user-attachments/assets/e0ba0e41-37a7-4387-ab04-c788b3f5a94f)
+
  
 
 
