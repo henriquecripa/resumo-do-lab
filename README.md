@@ -110,6 +110,13 @@ Permite monitorar e otimizar os gastos com o Azure, identificando oportunidades 
 
  ![image](https://github.com/user-attachments/assets/d64d3923-092c-45a6-8acf-b9079f1ae7cb)
 
+**GERENCIABILIDADE →** Um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento. Implementar recursos com base em um modelo pré-configurado, recomendado a necessidade de configuração manual. 
+Há dois tipos de capacidade de gerenciamento para computação em nuvem, que podemos incorporar em nossas implantaçõe.
+
+* **Usando APIs**
+  No contexto do Azure, as APIs, especialmente através do Azure API Management (APIM), desempenham um papel crucial na gerenciabilidade de serviços e aplicações. O APIM permite publicar, proteger, monitorar e escalar APIs, tornando-as mais fáceis de consumir e gerenciar.
+  Em resumo, as APIs, especialmente através do Azure API Management, são um pilar fundamental para a gerenciabilidade de aplicações e serviços no Azure, oferecendo uma solução completa para publicar, proteger, monitorar e escalar APIs. 
+
 
 
 
