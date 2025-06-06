@@ -115,7 +115,11 @@ Há dois tipos de capacidade de gerenciamento para computação em nuvem, que po
 
 * **Usando APIs**
   No contexto do Azure, as APIs, especialmente através do Azure API Management (APIM), desempenham um papel crucial na gerenciabilidade de serviços e aplicações. O APIM permite publicar, proteger, monitorar e escalar APIs, tornando-as mais fáceis de consumir e gerenciar.
-  Em resumo, as APIs, especialmente através do Azure API Management, são um pilar fundamental para a gerenciabilidade de aplicações e serviços no Azure, oferecendo uma solução completa para publicar, proteger, monitorar e escalar APIs. 
+  Em resumo, as APIs, especialmente através do Azure API Management, são um pilar fundamental para a gerenciabilidade de aplicações e serviços no Azure, oferecendo uma solução completa para publicar, proteger, monitorar e escalar APIs.
+
+* **Usando o Power Shell**
+  O Azure PowerShell é uma ferramenta poderosa e versátil para gerenciar recursos do Azure. Permite a criação de fluxos de trabalho automatizados e a gestão de recursos usando modelos do Azure Resource Manager. Ele pode ser usado através do Azure Cloud Shell ou instalado localmente no seu computador.
+  O Azure PowerShell é uma ferramenta essencial para quem busca automatizar tarefas e gerenciar eficientemente os recursos da Azure Cloud. 
 
 
 
