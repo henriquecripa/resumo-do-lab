@@ -74,6 +74,8 @@ Com a escala vertical por exemplo, em um desenvolvimento de um aplicativo precis
 - Um site de comércio eletrônico pode aumentar a capacidade de computação durante as promoções e reduzi-la após o evento.
 - Uma empresa de desenvolvimento de software pode escalar a capacidade de computação para realizar testes e compilações de código durante um projeto intensivo.
 - Uma instituição financeira pode aumentar a capacidade de computação durante os horários de pico, quando há maior volume de transações. 
-A elasticidade na nuvem é, portanto, um recurso valioso que contribui para a flexibilidade, eficiência e economia das empresas que adotam a computação em nuvem. 
+A elasticidade na nuvem é, portanto, um recurso valioso que contribui para a flexibilidade, eficiência e economia das empresas que adotam a computação em nuvem.
+![image](https://github.com/user-attachments/assets/762f706d-394e-41fb-8cf7-e02fbdc947e6)
+ 
 
 
