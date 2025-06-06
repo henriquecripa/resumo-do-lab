@@ -64,7 +64,9 @@ Outro benefício da escalabilidade é que a nuvem é baseada em consumo, ou seja
 Com a escala vertical por exemplo, em um desenvolvimento de um aplicativo precisando de mais capacidade de processamento, é possível escalar verticalmente para adicionar mais CPUs ou RAM a Maquina Virtual. 
 * **Tipos de escalabilidade:**
 **Escalabilidade vertical (scale-up):** Aumentar os recursos de um único servidor (CPU, RAM, etc.). 
-**Escalabilidade horizontal (scale-out):** Adicionar mais servidores para distribuir a carga de trabalho. 
+**Escalabilidade horizontal (scale-out):** Adicionar mais servidores para distribuir a carga de trabalho.
+  ![image](https://github.com/user-attachments/assets/00fc192b-c596-4886-a8b4-e77ad48ab28e)
+ 
 
 **ELASTICIDADE →** Com um salto repentino na demanda, os recursos implementados poderão ser plenamente expandidos automaticamente ou manualmente. O mesmo se aplica se houver queda na demanda, os recursos poreão ser reduzidos horizontalmente de forma automatica ou manual.
 
