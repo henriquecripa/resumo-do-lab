@@ -36,7 +36,7 @@ Eistem diferentes tipos de nuvem, como públicas, privadas, híbridas e comunida
    
                                                      Benefícios da Nuvem Azure (Microsoft)
       
-1.. ALTA DISPONIBILIDADE: A alta disponibilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos catrastróficos que possam ocorrer. É totalmente previsto e caso não seja entregue a disponibilidade de utilização, o cliente receberá em credito.
+*ALTA DISPONIBILIDADE*: A alta disponibilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos catrastróficos que possam ocorrer. É totalmente previsto e caso não seja entregue a disponibilidade de utilização, o cliente receberá em credito.
 As zonas de disponibilidade, por exemplo, são datacenters fisicamente separados, com infraestrutura independente, que fornecem redundância e alta disponibilidade para os serviços do Azure. Os conjuntos de disponibilidade, por outro lado, permitem que as máquinas virtuais sejam distribuídas por diferentes domínios de falha e atualização, garantindo que, mesmo que um domínio falhe, as máquinas virtuais continuem a funcionar.
 Como base SLA (Service Level Agreement) "Acordo de Nível de Serviço". É um documento que define os termos e condições de um acordo entre um fornecedor de serviço e um cliente, especificando detalhes como a qualidade, os prazos e as métricas de desempenho.
 * Clareza e transparência:
