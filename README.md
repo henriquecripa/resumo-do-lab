@@ -49,7 +49,8 @@ Eistem diferentes tipos de nuvem, como públicas, privadas, híbridas e comunida
 
 O diagrama a seguir destaca como o Modelo de Responsabilidade Compartilhada informa quem é responsável pelo que, dependendo do tipo de serviço de nuvem.
 
-![image](https://github.com/user-attachments/assets/f88cda88-ba3a-4bd4-8da1-8f1609de1334)
+![image](https://github.com/user-attachments/assets/11988119-a0c3-407a-a44c-ca122b692d20)
+
 
 
 Ao usar um provedor de nuvem, você sempre será responsável por:
