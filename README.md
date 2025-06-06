@@ -107,8 +107,7 @@ Oferece um painel de controle centralizado para monitorar a segurança do ambien
 Ajuda a catalogar e gerenciar os dados armazenados na nuvem, garantindo que eles estejam em conformidade com as políticas de governança de dados e que estejam disponíveis para aqueles que precisam deles. 
 * **Gerenciamento de Custos:**
 Permite monitorar e otimizar os gastos com o Azure, identificando oportunidades de redução de custos e garantindo que os gastos estejam alinhados com o orçamento.
-
- ![image](https://github.com/user-attachments/assets/d64d3923-092c-45a6-8acf-b9079f1ae7cb)
+![image](https://github.com/user-attachments/assets/fb608140-4dc2-4496-98a7-d00d852b94ff)
 
 **GERENCIABILIDADE →** Um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento. Implementar recursos com base em um modelo pré-configurado, recomendado a necessidade de configuração manual. 
 Há dois tipos de capacidade de gerenciamento para computação em nuvem, que podemos incorporar em nossas implantaçõe.
@@ -120,7 +119,7 @@ Há dois tipos de capacidade de gerenciamento para computação em nuvem, que po
 * **Usando o Power Shell**
   O Azure PowerShell é uma ferramenta poderosa e versátil para gerenciar recursos do Azure. Permite a criação de fluxos de trabalho automatizados e a gestão de recursos usando modelos do Azure Resource Manager. Ele pode ser usado através do Azure Cloud Shell ou instalado localmente no seu computador.
   O Azure PowerShell é uma ferramenta essencial para quem busca automatizar tarefas e gerenciar eficientemente os recursos da Azure Cloud. 
-
+ ![image](https://github.com/user-attachments/assets/d64d3923-092c-45a6-8acf-b9079f1ae7cb)
 
 
 
