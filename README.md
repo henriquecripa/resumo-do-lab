@@ -73,3 +73,4 @@ Com a escala vertical por exemplo, em um desenvolvimento de um aplicativo precis
 A elasticidade na nuvem é, portanto, um recurso valioso que contribui para a flexibilidade, eficiência e economia das empresas que adotam a computação em nuvem. 
 
  
+![image](https://github.com/user-attachments/assets/d2b01226-13d0-436e-aeb2-4e5505a9f7d4)
