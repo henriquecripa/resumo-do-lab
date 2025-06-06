@@ -52,5 +52,15 @@ Definem as responsabilidades de cada parte, o que ajuda a reduzir riscos de conf
 **ESCALABILIDADE:** A escalabilidade refere-se à capacidade de ajustar recursos para atender a demanda. A capacidade de escalar significa que você poderá adicionar mais recursos para lidar melhor com o aumento da demanda, podendo ajustar a capacidade do ambiente para atender uma determinada demanda.
 Outro benefício da escalabilidade é que a nuvem é baseada em consumo, ou seja, pagamos apenas oque for consumido, nada além do necessario pelos serviços. Se a demanda cair, podemos  reduzir os recursos e assim reduzir os custos.
 Com a escala vertical por exemplo, em um desenvolvimento de um aplicativo precisando de mais capacidade de processamento, é possível escalar verticalmente para adicionar mais CPUs ou RAM a Maquina Virtual. 
+* **Tipos de escalabilidade:**
+**Escalabilidade vertical (scale-up):** Aumentar os recursos de um único servidor (CPU, RAM, etc.). 
+**Escalabilidade horizontal (scale-out):** Adicionar mais servidores para distribuir a carga de trabalho. 
+
+**ELASTICIDADE:** Com um salto repentino na demanda, os recursos implementados poderão ser plenamente expandidos automaticamente ou manualmente. O mesmo se aplica se houver queda na demanda, os recursos poreão ser reduzidos horizontalmente de forma automatica ou manual. 
+**Exemplos de uso:**
+Um site de comércio eletrônico pode aumentar a capacidade de computação durante as promoções e reduzi-la após o evento.
+Uma empresa de desenvolvimento de software pode escalar a capacidade de computação para realizar testes e compilações de código durante um projeto intensivo.
+Uma instituição financeira pode aumentar a capacidade de computação durante os horários de pico, quando há maior volume de transações. 
+A elasticidade na nuvem é, portanto, um recurso valioso que contribui para a flexibilidade, eficiência e economia das empresas que adotam a computação em nuvem. 
 
  
