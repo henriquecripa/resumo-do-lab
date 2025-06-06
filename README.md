@@ -152,7 +152,7 @@ Há dois tipos de capacidade de gerenciamento para computação em nuvem, que po
   O Azure PowerShell é uma ferramenta essencial para quem busca automatizar tarefas e gerenciar eficientemente os recursos da Azure Cloud. 
  ![image](https://github.com/user-attachments/assets/d64d3923-092c-45a6-8acf-b9079f1ae7cb)
 
-                                                                       Link Microsoft Azure
+                                                        Link Microsoft Azure
                                 https://learn.microsoft.com/pt-br/training/modules/describe-cloud-compute/1-introduction-microsoft-azure-fundamentals
 
 
