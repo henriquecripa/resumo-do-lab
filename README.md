@@ -92,6 +92,25 @@ Ajuda a proteger informações sensíveis, classificando, etiquetando e protegen
  Aqui estão algumas categorias amplas a serem consideradas ao criar um sistema de segurança:
  ![image](https://github.com/user-attachments/assets/0b0ae4fb-10d6-416c-8527-dc44f4e08d82)
 
+ **GOVERNANÇAS →** A **auditoria** baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação, refere-se à redução ou minimização dos impactos adversos de um evento ou situação. 
+No Azure, as ferramentas de governança incluem serviços que ajudam a controlar e otimizar o uso da nuvem, garantindo conformidade, segurança e eficiência. Algumas dessas ferramentas incluem políticas, alertas, controles de acesso e mecanismos de monitoramento, além de serviços como o Azure Security Center e o Microsoft Purview. 
+ **Ferramentas de Governança no Azure:**
+* **Políticas do Azure:**
+Permitem definir e aplicar regras para recursos do Azure, garantindo conformidade com as normas da organização e regulamentos. 
+* **Alertas do Azure:**
+Ativam notificações quando determinadas condições são detectadas no ambiente Azure, como desvios de políticas, alertas de segurança ou problemas de desempenho. 
+* **Controles de Acesso Baseados em Funções (RBAC):**
+Define permissões de acesso aos recursos Azure, restringindo o acesso a usuários e grupos específicos e garantindo que apenas aqueles com permissões necessárias possam acessar e modificar recursos. 
+* **Azure Security Center:**
+Oferece um painel de controle centralizado para monitorar a segurança do ambiente Azure, identificar ameaças potenciais e responder a incidentes de segurança. 
+* **Microsoft Purview:**
+Ajuda a catalogar e gerenciar os dados armazenados na nuvem, garantindo que eles estejam em conformidade com as políticas de governança de dados e que estejam disponíveis para aqueles que precisam deles. 
+* **Gerenciamento de Custos:**
+Permite monitorar e otimizar os gastos com o Azure, identificando oportunidades de redução de custos e garantindo que os gastos estejam alinhados com o orçamento.
+
+ ![image](https://github.com/user-attachments/assets/d64d3923-092c-45a6-8acf-b9079f1ae7cb)
+
+
 
 
  
