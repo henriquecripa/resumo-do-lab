@@ -34,3 +34,13 @@ Eistem diferentes tipos de nuvem, como públicas, privadas, híbridas e comunida
     * Microsoft 365 (Outlook, Word, Excel)
     * Salesforce
    
+                                                     Benefícios da Nuvem Azure (Microsoft)
+      
+* ALTA DISPONIBILIDADE: A alta disponibilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos catrastróficos que possam ocorrer. É totalmente previsto e caso não seja entregue a disponibilidade de utilização, o cliente receberá em credito.
+As zonas de disponibilidade, por exemplo, são datacenters fisicamente separados, com infraestrutura independente, que fornecem redundância e alta disponibilidade para os serviços do Azure. Os conjuntos de disponibilidade, por outro lado, permitem que as máquinas virtuais sejam distribuídas por diferentes domínios de falha e atualização, garantindo que, mesmo que um domínio falhe, as máquinas virtuais continuem a funcionar.
+
+* ESCALABILIDADE: A escalabilidade refere-se à capacidade de ajustar recursos para atender a demanda. A capacidade de escalar significa que você poderá adicionar mais recursos para lidar melhor com o aumento da demanda, podendo ajustar a capacidade do ambiente para atender uma determinada demanda.
+Outro benefício da escalabilidade é que a nuvem é baseada em consumo, ou seja, pagamos apenas oque for consumido, nada além do necessario pelos serviços. Se a demanda cair, podemos  reduzir os recursos e assim reduzir os custos.
+Com a escala vertical por exemplo, em um desenvolvimento de um aplicativo precisando de mais capacidade de processamento, é possível escalar verticalmente para adicionar mais CPUs ou RAM a Maquina Virtual. 
+
+ 
