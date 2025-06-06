@@ -48,6 +48,7 @@ Permitem que as partes acompanhem o desempenho do fornecedor e identifiquem áre
 * Redução de riscos:
 Definem as responsabilidades de cada parte, o que ajuda a reduzir riscos de conflitos e disputas
 
+
 2. ESCALABILIDADE: A escalabilidade refere-se à capacidade de ajustar recursos para atender a demanda. A capacidade de escalar significa que você poderá adicionar mais recursos para lidar melhor com o aumento da demanda, podendo ajustar a capacidade do ambiente para atender uma determinada demanda.
 Outro benefício da escalabilidade é que a nuvem é baseada em consumo, ou seja, pagamos apenas oque for consumido, nada além do necessario pelos serviços. Se a demanda cair, podemos  reduzir os recursos e assim reduzir os custos.
 Com a escala vertical por exemplo, em um desenvolvimento de um aplicativo precisando de mais capacidade de processamento, é possível escalar verticalmente para adicionar mais CPUs ou RAM a Maquina Virtual. 
