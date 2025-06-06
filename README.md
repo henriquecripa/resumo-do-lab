@@ -80,6 +80,19 @@ A elasticidade na nuvem é, portanto, um recurso valioso que contribui para a fl
 **PREVISIBILIDADE →** A previsibilidade na nuvem permite que avance com confiança, seja no desempenho ou no custo. Ambas são influenciadas pelo _Azure Well-Architected Framewor_ é um conjunto de princípios e ferramentas que ajudam os arquitetos a projetar e construir cargas de trabalho em nuvem de alta qualidade no **Microsoft Azure**. Ele se concentra em cinco pilares principais: Confiabilidade, Otimização de Custos, Excelência Operacional, Eficiência de Desempenho e Segurança. Esses pilares fornecem uma abordagem estruturada para garantir que os aplicativos sejam não apenas funcionais, mas também confiáveis, econômicos, fáceis de gerenciar, eficientes e seguros. 
   ![image](https://github.com/user-attachments/assets/0b22f23c-f5bb-4666-b79d-70b51ca3d5a9)
 
+**SEGURANÇA →** A nuvem oferece ferramentas de segurança que atendem as necessidades dos clientes mas é importante ressaltar que a implementação deve ser realizado pelo cliente. As ferramentas de segurança na cloud do Azure são diversas e abrangentes, fornecendo proteção para diversos aspectos da nuvem, desde a segurança das identidades e acessos até a proteção dos dados e infraestrutura. Alguns exemplos incluem o *Microsoft Defender for Cloud*, o *Azure Sentinel*, e o *Azure Information Protection*. 
+ **Ferramentas de Segurança do Azure:**
+* **Microsoft Defender for Cloud:**
+Uma solução unificada que oferece proteção contra ameaças, gerenciamento de segurança e monitoramento de vulnerabilidades em toda a sua infraestrutura na nuvem e localmente. 
+* **Azure Sentinel:**
+Um sistema de gerenciamento de eventos e informações de segurança (SIEM) e orquestração, automação e resposta (SOAR) que oferece inteligência de ameaças e análise de segurança avançada. 
+* **Azure Information Protection (AIP):**
+Ajuda a proteger informações sensíveis, classificando, etiquetando e protegendo dados, mesmo quando eles são compartilhados fora da empresa.
+
+ Aqui estão algumas categorias amplas a serem consideradas ao criar um sistema de segurança:
+ ![image](https://github.com/user-attachments/assets/0b0ae4fb-10d6-416c-8527-dc44f4e08d82)
+
+
 
  
 
