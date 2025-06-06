@@ -73,7 +73,7 @@ Contas e identidades das pessoas, serviços e dispositivos em sua organização
 
                                                                
    
-                                                     Benefícios da Nuvem Azure (Microsoft)
+                                            Benefícios da Nuvem Azure (Microsoft)
       
 **ALTA DISPONIBILIDADE →** A alta disponibilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos catrastróficos que possam ocorrer. É totalmente previsto e caso não seja entregue a disponibilidade de utilização, o cliente receberá em credito.
 As zonas de disponibilidade, por exemplo, são datacenters fisicamente separados, com infraestrutura independente, que fornecem redundância e alta disponibilidade para os serviços do Azure. Os conjuntos de disponibilidade, por outro lado, permitem que as máquinas virtuais sejam distribuídas por diferentes domínios de falha e atualização, garantindo que, mesmo que um domínio falhe, as máquinas virtuais continuem a funcionar.
@@ -88,6 +88,7 @@ Permitem que as partes acompanhem o desempenho do fornecedor e identifiquem áre
 Definem as responsabilidades de cada parte, o que ajuda a reduzir riscos de conflitos e disputas
 
 Tabela de metas comuns de design de disponibilidade de aplicativos que contém exemplos dos tipos de aplicativos que vemos comumente em cada nível de disponibilidade.
+
 ![image](https://github.com/user-attachments/assets/d2b01226-13d0-436e-aeb2-4e5505a9f7d4)
 
 **ESCALABILIDADE →** A escalabilidade refere-se à capacidade de ajustar recursos para atender a demanda. A capacidade de escalar significa que você poderá adicionar mais recursos para lidar melhor com o aumento da demanda, podendo ajustar a capacidade do ambiente para atender uma determinada demanda.
@@ -106,9 +107,11 @@ Com a escala vertical por exemplo, em um desenvolvimento de um aplicativo precis
 - Uma empresa de desenvolvimento de software pode escalar a capacidade de computação para realizar testes e compilações de código durante um projeto intensivo.
 - Uma instituição financeira pode aumentar a capacidade de computação durante os horários de pico, quando há maior volume de transações. 
 A elasticidade na nuvem é, portanto, um recurso valioso que contribui para a flexibilidade, eficiência e economia das empresas que adotam a computação em nuvem.
+
 ![image](https://github.com/user-attachments/assets/762f706d-394e-41fb-8cf7-e02fbdc947e6)
 
-**PREVISIBILIDADE →** A previsibilidade na nuvem permite que avance com confiança, seja no desempenho ou no custo. Ambas são influenciadas pelo _Azure Well-Architected Framewor_ é um conjunto de princípios e ferramentas que ajudam os arquitetos a projetar e construir cargas de trabalho em nuvem de alta qualidade no **Microsoft Azure**. Ele se concentra em cinco pilares principais: Confiabilidade, Otimização de Custos, Excelência Operacional, Eficiência de Desempenho e Segurança. Esses pilares fornecem uma abordagem estruturada para garantir que os aplicativos sejam não apenas funcionais, mas também confiáveis, econômicos, fáceis de gerenciar, eficientes e seguros. 
+**PREVISIBILIDADE →** A previsibilidade na nuvem permite que avance com confiança, seja no desempenho ou no custo. Ambas são influenciadas pelo _Azure Well-Architected Framewor_ é um conjunto de princípios e ferramentas que ajudam os arquitetos a projetar e construir cargas de trabalho em nuvem de alta qualidade no **Microsoft Azure**. Ele se concentra em cinco pilares principais: Confiabilidade, Otimização de Custos, Excelência Operacional, Eficiência de Desempenho e Segurança. Esses pilares fornecem uma abordagem estruturada para garantir que os aplicativos sejam não apenas funcionais, mas também confiáveis, econômicos, fáceis de gerenciar, eficientes e seguros.
+
   ![image](https://github.com/user-attachments/assets/0b22f23c-f5bb-4666-b79d-70b51ca3d5a9)
 
 **SEGURANÇA →** A nuvem oferece ferramentas de segurança que atendem as necessidades dos clientes mas é importante ressaltar que a implementação deve ser realizado pelo cliente. As ferramentas de segurança na cloud do Azure são diversas e abrangentes, fornecendo proteção para diversos aspectos da nuvem, desde a segurança das identidades e acessos até a proteção dos dados e infraestrutura. Alguns exemplos incluem o *Microsoft Defender for Cloud*, o *Azure Sentinel*, e o *Azure Information Protection*. 
@@ -121,6 +124,7 @@ Um sistema de gerenciamento de eventos e informações de segurança (SIEM) e or
 Ajuda a proteger informações sensíveis, classificando, etiquetando e protegendo dados, mesmo quando eles são compartilhados fora da empresa.
 
  Aqui estão algumas categorias amplas a serem consideradas ao criar um sistema de segurança:
+ 
  ![image](https://github.com/user-attachments/assets/0b0ae4fb-10d6-416c-8527-dc44f4e08d82)
 
  **GOVERNANÇAS →** A **auditoria** baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação, refere-se à redução ou minimização dos impactos adversos de um evento ou situação. 
@@ -138,6 +142,7 @@ Oferece um painel de controle centralizado para monitorar a segurança do ambien
 Ajuda a catalogar e gerenciar os dados armazenados na nuvem, garantindo que eles estejam em conformidade com as políticas de governança de dados e que estejam disponíveis para aqueles que precisam deles. 
 * **Gerenciamento de Custos:**
 Permite monitorar e otimizar os gastos com o Azure, identificando oportunidades de redução de custos e garantindo que os gastos estejam alinhados com o orçamento.
+
 ![image](https://github.com/user-attachments/assets/fb608140-4dc2-4496-98a7-d00d852b94ff)
 
 **GERENCIABILIDADE →** Um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento. Implementar recursos com base em um modelo pré-configurado, recomendado a necessidade de configuração manual. 
@@ -149,7 +154,8 @@ Há dois tipos de capacidade de gerenciamento para computação em nuvem, que po
 
 * **Usando o Power Shell**
   O Azure PowerShell é uma ferramenta poderosa e versátil para gerenciar recursos do Azure. Permite a criação de fluxos de trabalho automatizados e a gestão de recursos usando modelos do Azure Resource Manager. Ele pode ser usado através do Azure Cloud Shell ou instalado localmente no seu computador.
-  O Azure PowerShell é uma ferramenta essencial para quem busca automatizar tarefas e gerenciar eficientemente os recursos da Azure Cloud. 
+  O Azure PowerShell é uma ferramenta essencial para quem busca automatizar tarefas e gerenciar eficientemente os recursos da Azure Cloud.
+  
  ![image](https://github.com/user-attachments/assets/d64d3923-092c-45a6-8acf-b9079f1ae7cb)
 
                                                         Link Microsoft Azure
