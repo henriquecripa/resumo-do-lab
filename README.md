@@ -41,6 +41,36 @@ Eistem diferentes tipos de nuvem, como públicas, privadas, híbridas e comunida
     * Google Workspace (Gmail, Docs, Drive)
     * Microsoft 365 (Outlook, Word, Excel)
     * Salesforce
+
+                                                               Responsabilidade
+
+ O consumidor é responsável pelos dados e pelas informações armazenados na nuvem. (Você não gostaria que o provedor de nuvem pudesse ler suas informações). O consumidor também é responsável pela segurança de acesso, o que significa que você só dá acesso àqueles que precisam.
+ Com um datacenter local, você é responsável por tudo. Com a computação em nuvem, essas responsabilidades mudam. O modelo de responsabilidade compartilhada está fortemente vinculado aos tipos de serviço de nuvem (abordados posteriormente neste roteiro de aprendizagem): IaaS (infraestrutura como serviço), PaaS (plataforma como serviço) e SaaS (software como serviço). A IaaS coloca a maior responsabilidade sobre o consumidor, com o provedor de nuvem sendo responsável pelas questões básicas de segurança física, energia e conectividade. Na outra ponta do espectro, o SaaS coloca a maior parte da responsabilidade no provedor de nuvem. A PaaS, sendo um meio termo entre IaaS e SaaS, situa-se no meio desses dois cenários e distribui uniformemente a responsabilidade entre o provedor de nuvem e o consumidor.
+
+O diagrama a seguir destaca como o Modelo de Responsabilidade Compartilhada informa quem é responsável pelo que, dependendo do tipo de serviço de nuvem.
+
+![image](https://github.com/user-attachments/assets/f88cda88-ba3a-4bd4-8da1-8f1609de1334)
+
+
+Ao usar um provedor de nuvem, você sempre será responsável por:
+
+Informações e dados armazenados na nuvem
+Dispositivos que têm permissão para se conectar à nuvem (telefones celulares, computadores e assim por diante)
+Contas e identidades das pessoas, serviços e dispositivos em sua organização
+
+**O provedor de nuvem é sempre responsável por:**
+ * Datacenter físico
+ * Rede física
+ * Hosts físicos
+
+**Seu modelo de serviço determinará a responsabilidade por coisas como:**
+ * Sistemas operacionais
+ * Controles de rede
+ * Aplicativos
+ * Identidade e infraestrutura
+
+
+                                                               
    
                                                      Benefícios da Nuvem Azure (Microsoft)
       
