@@ -165,8 +165,7 @@ Há dois tipos de capacidade de gerenciamento para computação em nuvem, que po
 
                                                        Maquina Virtual Azure
 
-
-                                 ![image](https://github.com/user-attachments/assets/b8f90ca9-051b-4a37-bec9-cbcd58bf90d7)
+![image](https://github.com/user-attachments/assets/b8f90ca9-051b-4a37-bec9-cbcd58bf90d7)
 
 
 
