@@ -211,9 +211,12 @@ Sendo importante sempre que possível trabalhar com as mesmas locilidades para q
 ![image](https://github.com/user-attachments/assets/50d1a8f5-5c67-4591-be00-51b61fb7872c)
 ![image](https://github.com/user-attachments/assets/b1ad993c-01c5-465f-b606-bc10c3687648)
 
-* **Para Calcular Valores no Azure:** 
-Para calcular valores: 
-![image](https://azure.microsoft.com/en-us/pricing/calculator)
+* **Para Calcular Valores no Azure:**
+* ![image](https://github.com/user-attachments/assets/b487eb93-4111-4cfd-9c4f-abeb51490db7)
+
+![image](https://github.com/user-attachments/assets/8d0b6f8d-47e3-4d66-9747-5a9655cbc0f2)
+
+
 
 
 
