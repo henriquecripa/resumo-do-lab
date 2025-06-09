@@ -173,7 +173,9 @@ Há dois tipos de capacidade de gerenciamento para computação em nuvem, que po
 Para iniciar a criação da máquina virtual é nessesário a criação de um grupo de recursos (Azure resource group), refere-se a um agrupamento lógico onde são organizados elementos de dados ou com base em semelhanças ou formando um grupo. Todo recurso criado no Azureprecisa estar atrelado a um resource group.
 Sendo importante sempre que possível trabalhar com as mesmas locilidades para que se tenha diminuição na latencia, ou seja, menos atraso na comunicação de dados pela rede.
 
-* **Criação Maquina Virtual:** 
+                         
+                         
+                         * **Criação Maquina Virtual:** 
 ![image](https://github.com/user-attachments/assets/dba5b35b-8f4a-4b1f-a997-88ba769cec3e)
 
 ![image](https://github.com/user-attachments/assets/8784a652-2797-46e7-95b8-990bdd2ff027)
@@ -194,12 +196,15 @@ Sendo importante sempre que possível trabalhar com as mesmas locilidades para q
 
 ![image](https://github.com/user-attachments/assets/5ef33370-85f2-4c9f-acde-bffc057cc06f)
 
-* **Parar Máquina Virtual:**
+                        
+                       * **Parar Máquina Virtual:**
+                       
 ![image](https://github.com/user-attachments/assets/104c1c5f-fcd7-4beb-a5d4-c37b93920989)
 
 ![image](https://github.com/user-attachments/assets/4ee31e2b-217e-4a3c-a54d-5d0588d87a87)
 
-* **Excluir Máquina Virtual**
+
+                         * **Excluir Máquina Virtual**
 
 ![image](https://github.com/user-attachments/assets/be3b2f33-826d-42a9-a98f-1d21b8b2a576)
 
@@ -207,11 +212,15 @@ Sendo importante sempre que possível trabalhar com as mesmas locilidades para q
 
 ![image](https://github.com/user-attachments/assets/6474d227-166e-43d4-8468-9b4bbbb18760)
 
-* **Verificar Outros Elementos:**
+                   
+                          * **Verificar Outros Elementos:**
+                          
 ![image](https://github.com/user-attachments/assets/50d1a8f5-5c67-4591-be00-51b61fb7872c)
 ![image](https://github.com/user-attachments/assets/b1ad993c-01c5-465f-b606-bc10c3687648)
 
-* **Para Calcular Valores no Azure:**
+
+                           * **Para Calcular Valores no Azure:**
+                           
 ![image](https://github.com/user-attachments/assets/b487eb93-4111-4cfd-9c4f-abeb51490db7)
 
 [https://azure.microsoft.com/en-us/pricing/calculator](url)
