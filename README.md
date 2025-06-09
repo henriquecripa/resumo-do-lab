@@ -214,6 +214,8 @@ Sendo importante sempre que possível trabalhar com as mesmas locilidades para q
 * **Para Calcular Valores no Azure:**
 ![image](https://github.com/user-attachments/assets/b487eb93-4111-4cfd-9c4f-abeb51490db7)
 
+[https://azure.microsoft.com/en-us/pricing/calculator](url)
+
 
 
 
