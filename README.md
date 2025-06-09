@@ -190,11 +190,7 @@ Sendo importante sempre que possível trabalhar com as mesmas locilidades para q
 
 ![image](https://github.com/user-attachments/assets/eb0b9609-9742-409e-b3c5-5171f82a6222)
 
-![image](https://github.com/user-attachments/assets/723a58df-5287-4bf3-a2d8-546ff9090c5f)
 
-![image](https://github.com/user-attachments/assets/d272c092-6194-420f-9098-338c16a2891f)
-
-![image](https://github.com/user-attachments/assets/5ef33370-85f2-4c9f-acde-bffc057cc06f)
 
                         
                                                         Parar Máquina Virtual:
