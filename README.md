@@ -263,6 +263,8 @@ Recursos em destaque:
  * Gerenciamento de backup
  * Gerenciamento de continuidade de negócios
 
+![image](https://github.com/user-attachments/assets/a575dbd5-edd3-4637-9f41-d72fef550f0f)
+
 
 
 
