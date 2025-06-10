@@ -239,12 +239,18 @@ Sendo disponibilizado três tipos de serviços:
 
 ![image](https://github.com/user-attachments/assets/4239f4f2-3cb7-473b-b0a8-eaac9b7287b8)
 
-**Banco de dados individual**
+![image](https://github.com/user-attachments/assets/517682fb-163d-49c8-9a78-2ce0fbc7b643) **Banco de dados individual**
 Os bancos de dados únicos são uma ótima opção para aplicativos modernos originados na nuvem que precisam de um banco de dados totalmente gerenciado com desempenho previsível.
 Recursos em destaque:
  * Armazenamento de hiperescala (até 100 TB)
  * Computação sem servidor
  * Gerenciamento fácil
+
+![image](https://github.com/user-attachments/assets/38913b80-e5cf-4b9d-b567-ea6c41a20ccb) **Pool elástico**
+Os pools elásticos fornecem uma solução econômica para gerenciar o desempenho de vários bancos de dados com padrões de uso variáveis.
+Recursos em destaque:
+ * Compartilhamento de recursos para otimização de custo
+ * Gerenciamento de desempenho simplificado
 
 
 
