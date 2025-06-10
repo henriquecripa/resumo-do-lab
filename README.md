@@ -240,6 +240,8 @@ Sendo disponibilizado três tipos de serviços:
 
 ![image](https://github.com/user-attachments/assets/4239f4f2-3cb7-473b-b0a8-eaac9b7287b8)
 
+![image](https://github.com/user-attachments/assets/a8e4e4fe-f6e4-4be2-ac66-a3c11318857c)
+
 ![image](https://github.com/user-attachments/assets/517682fb-163d-49c8-9a78-2ce0fbc7b643) **Banco de dados individual**
 Os bancos de dados únicos são uma ótima opção para aplicativos modernos originados na nuvem que precisam de um banco de dados totalmente gerenciado com desempenho previsível.
 Recursos em destaque:
