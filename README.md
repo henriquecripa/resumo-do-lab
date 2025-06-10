@@ -265,6 +265,9 @@ Recursos em destaque:
 
 ![image](https://github.com/user-attachments/assets/a575dbd5-edd3-4637-9f41-d72fef550f0f)
 
+![image](https://github.com/user-attachments/assets/cf7e3c1f-6e30-40e0-a386-f2512df52574)
+
+
 
 
 
