@@ -190,6 +190,9 @@ Sendo importante sempre que possível trabalhar com as mesmas locilidades para q
 
 ![image](https://github.com/user-attachments/assets/eb0b9609-9742-409e-b3c5-5171f82a6222)
 
+![image](https://github.com/user-attachments/assets/6aaa14e2-87da-48e3-9ee8-adcb1221ec5d)
+
+
 
 
                         
