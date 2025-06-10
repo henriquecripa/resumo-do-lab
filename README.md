@@ -173,7 +173,8 @@ Após a criação de uma assinatura Microsoft Azure, podendo ser:
 
                                                        Máquinas Virtuais Azure 
 
-![image](https://github.com/user-attachments/assets/b8f90ca9-051b-4a37-bec9-cbcd58bf90d7) Para iniciar a criação da máquina virtual é nessesário a criação de um grupo de recursos (Azure resource group), refere-se a um agrupamento lógico onde são organizados elementos de dados ou com base em semelhanças ou formando um grupo. Todo recurso criado no Azureprecisa estar atrelado a um resource group.
+
+ ![image](https://github.com/user-attachments/assets/f14fcf45-47b9-44ec-b5f9-22fb947d641b) Para iniciar a criação da máquina virtual é nessesário a criação de um grupo de recursos (Azure resource group), refere-se a um agrupamento lógico onde são organizados elementos de dados ou com base em semelhanças ou formando um grupo. Todo recurso criado no Azureprecisa estar atrelado a um resource group.
 Sendo importante sempre que possível trabalhar com as mesmas locilidades para que se tenha diminuição na latencia, ou seja, menos atraso na comunicação de dados pela rede.
 
                          
@@ -251,6 +252,15 @@ Os pools elásticos fornecem uma solução econômica para gerenciar o desempenh
 Recursos em destaque:
  * Compartilhamento de recursos para otimização de custo
  * Gerenciamento de desempenho simplificado
+
+![image](https://github.com/user-attachments/assets/b59930fb-84e4-400e-9298-38eb4e8a2bf5) **Servidor de banco de dados**
+Servidor de banco de dados
+Servidores de banco de dados são usados para gerenciar grupos de bancos de dados únicos e pools elásticos.
+Recursos em destaque:
+ * Gerenciamento de acesso
+ * Gerenciamento de backup
+ * Gerenciamento de continuidade de negócios
+
 
 
 
