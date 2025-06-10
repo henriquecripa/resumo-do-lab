@@ -163,14 +163,17 @@ Há dois tipos de capacidade de gerenciamento para computação em nuvem, que po
   [https://learn.microsoft.com/pt-br/training/modules/describe-cloud-compute/1-introduction-microsoft-azure-fundamentals](url)
 
 
-                                                       Máquinas Virtuais Azure
+                                                       Criação de Assinatura Azure
 
-![image](https://github.com/user-attachments/assets/b8f90ca9-051b-4a37-bec9-cbcd58bf90d7) Após a criação de uma assinatura Microsoft Azure, podendo ser: 
+Após a criação de uma assinatura Microsoft Azure, podendo ser: 
 * **Assinatura Esducacionais:** Assinaturas que oferecem acesso a serviços gerenciados, como o Azure Kubernetes Service (AKS) ou o Azure Container Instances (ACI).
 * **Assinatura de Teste Gratuito (Trial):** Uma forma de experimentar os serviços do Azure sem custos iniciais. 
-* **Assinaturas Híbridas:** Assinaturas que oferecem acesso a serviços gerenciados, como o Azure Kubernetes Service (AKS) ou o Azure Container Instances (ACI). 
+* **Assinaturas Híbridas:** Assinaturas que oferecem acesso a serviços gerenciados, como o Azure Kubernetes Service (AKS) ou o Azure Container Instances (ACI).
+* 
 
-Para iniciar a criação da máquina virtual é nessesário a criação de um grupo de recursos (Azure resource group), refere-se a um agrupamento lógico onde são organizados elementos de dados ou com base em semelhanças ou formando um grupo. Todo recurso criado no Azureprecisa estar atrelado a um resource group.
+                                                       Máquinas Virtuais Azure 
+
+![image](https://github.com/user-attachments/assets/b8f90ca9-051b-4a37-bec9-cbcd58bf90d7) Para iniciar a criação da máquina virtual é nessesário a criação de um grupo de recursos (Azure resource group), refere-se a um agrupamento lógico onde são organizados elementos de dados ou com base em semelhanças ou formando um grupo. Todo recurso criado no Azureprecisa estar atrelado a um resource group.
 Sendo importante sempre que possível trabalhar com as mesmas locilidades para que se tenha diminuição na latencia, ou seja, menos atraso na comunicação de dados pela rede.
 
                          
@@ -226,11 +229,22 @@ Sendo importante sempre que possível trabalhar com as mesmas locilidades para q
 
 
 
+                                                       Banco de Dados (SQL) Azure
+
+Para iniciar a criação da um Banco de Dados é preciso um grupo de recursos (Azure resource group), refere-se a um agrupamento lógico onde são organizados elementos de dados ou com base em semelhanças ou formando um grupo. Todo recurso criado no Azureprecisa estar atrelado a um resource group.
+Sendo importante sempre que possível trabalhar com as mesmas locilidades para que se tenha diminuição na latencia, ou seja, menos atraso na comunicação de dados pela rede.
 
 
+Sendo disponibilizado três tipos de serviços: 
 
+![image](https://github.com/user-attachments/assets/4239f4f2-3cb7-473b-b0a8-eaac9b7287b8)
 
-
+**Banco de dados individual**
+Os bancos de dados únicos são uma ótima opção para aplicativos modernos originados na nuvem que precisam de um banco de dados totalmente gerenciado com desempenho previsível.
+Recursos em destaque:
+ * Armazenamento de hiperescala (até 100 TB)
+ * Computação sem servidor
+ * Gerenciamento fácil
 
 
 
