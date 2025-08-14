@@ -4,8 +4,8 @@
                                                      Olá Mundo
                                               Cloud (Nuvem na Internet)
 É uma rede de serviços remotos que armazenam e gerenciam dados, executam aplicativos e fornecem conteúdo e serviços. 
-Os serviços estão interligados e funcionam como um ecosistema único. Permite aceder aos dados online de qualquer dispositivo com acesso a Internet.
-Eistem diferentes tipos de nuvem, como públicas, privadas, híbridas e comunidades. 
+Os serviços estão interligados e funcionam como um ecossistema único. Permite aceder aos dados online de qualquer dispositivo com acesso a Internet.
+Existem diferentes tipos de nuvem, como públicas, privadas, híbridas e comunidades. 
 
                                   Três tipos de forma de consumo de dados e armazenamento. 
 * **On-premise (no local):** Modelo baseado para a empresa cuidar da própria infraestrutura física.
