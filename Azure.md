@@ -1,7 +1,4 @@
 
-                "Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do Lab na DIO"
-
-                                                     Olá Mundo
                                               Cloud (Nuvem na Internet)
 É uma rede de serviços remotos que armazenam e gerenciam dados, executam aplicativos e fornecem conteúdo e serviços. 
 Os serviços estão interligados e funcionam como um ecossistema único. Permite aceder aos dados online de qualquer dispositivo com acesso a Internet.
